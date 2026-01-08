@@ -116,3 +116,8 @@ p{
     margin-top: 68px;
 }
 /* end section */
+.notes-icon{
+    width: 24px;
+    height: 25px;
+    object-fit: contain;
+}
