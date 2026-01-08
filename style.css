@@ -166,3 +166,38 @@ h1{
     font-size: 19px;
     color: #00000081;
 }
+/* soluation start */
+.solution-section{
+    padding: 100px 20px;
+    background-color: #fff;
+}
+.solution-container{
+    max-width: 1600px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+.small-title{
+    color: #30BB68;
+    font-weight: 600;
+}
+
+.solution-content h2{
+    font-size: 42px;
+}
+.solution-content p{
+    color: #00000073;
+    font-size: 17px;
+    line-height: 1.6;
+    margin-bottom: 30px;
+}
+.solution-list{
+    list-style: none;
+    padding: 0;
+}
+.solution-list img{
+    width: 15px;
+    height: 15px;
+}
+/* complete solution part  */
