@@ -92,7 +92,7 @@ h1{
 .green{
     color: #30BB68;
 }
-p{
+.center{
     max-width: 645px;
     font-size: 20px;
     margin-bottom: 45px;
@@ -116,8 +116,53 @@ p{
     margin-top: 68px;
 }
 /* end section */
+.note-section{
+    
+    padding: 80px 20px;
+    background-color: #fff;
+    text-align: center;
+
+}
+.note-container{
+    max-width: 1800px;
+    margin: 0 auto;
+}
+.notes-grid{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 48px;
+   
+}
+.notes-card{
+    
+    background: #fff;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    box-shadow: 18px 0px 50px #e7dbdb;
+}
 .notes-icon{
-    width: 24px;
-    height: 25px;
-    object-fit: contain;
+    width: 60px;
+    height: 60px;
+    background-color: rgb(199, 68, 68);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.notes-card h3{
+    font-size: 23px;
+    color: #000000c6;
+}
+.notes-card p{
+    font-size: 18px;
+    color: #00000095;
+    line-height: 20px;
+    
+}
+.tex{
+    font-size: 19px;
+    color: #00000081;
 }
