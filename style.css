@@ -241,3 +241,48 @@ h1{
     margin-bottom: 100px;
 }
 /* end especial section work */
+.bottom-section{
+
+    background-color: #0b006a;
+    padding: 60px 0px 30px 0;
+    color: #fff;
+}
+.bottom-container{
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.bottom-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 20px;
+}
+.bottom-social{
+    text-align: right;
+}
+.bottom-icon{
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    padding: 0;
+
+}
+.bottom-icon a{
+    color: #fff;
+    font-size: 18px;
+
+}
+.bottom-divider{
+    border: 0;
+    border-top: 1px solid #d5d5d5;
+    margin: 20px 0;
+}
+.bottom-footer{
+    text-align: center;
+    font-size: 14px;
+   
+}
+.bottom-footer p{
+    color: #627382;
+}
