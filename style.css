@@ -131,7 +131,6 @@ h1{
     display: flex;
     justify-content: center;
     gap: 20px;
-    flex-wrap: wrap;
     margin-top: 48px;
    
 }
@@ -141,6 +140,7 @@ h1{
     border: 1px solid #fff;
     border-radius: 10px;
     box-shadow: 18px 0px 50px #e7dbdb;
+    padding: 32px 24px 40px;
 }
 .notes-icon{
     width: 60px;
@@ -155,12 +155,13 @@ h1{
 .notes-card h3{
     font-size: 23px;
     color: #000000c6;
+    margin: 20px 0px 12px ;
 }
 .notes-card p{
     font-size: 18px;
     color: #00000095;
-    line-height: 20px;
-    
+    line-height: 24px;
+    margin: 0; 
 }
 .tex{
     font-size: 19px;
@@ -284,5 +285,5 @@ h1{
    
 }
 .bottom-footer p{
-    color: #627382;
+    color: #a9b6c2;
 }
