@@ -201,3 +201,8 @@ h1{
     height: 15px;
 }
 /* complete solution part  */
+.special-section{
+    width: 91%;
+    background-color: #F7F6F2;
+    margin:120px 120px;
+}
